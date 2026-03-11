@@ -1,0 +1,20 @@
+[
+    {
+        "username": "prajwal",
+        "score": 40,
+        "high_score": 40,
+        "difficulty": "medium"
+    },
+    {
+        "username": "ridb",
+        "score": 0,
+        "high_score": 0,
+        "difficulty": "easy"
+    },
+    {
+        "username": "ramesh",
+        "score": 10,
+        "high_score": 130,
+        "difficulty": "easy"
+    }
+]
